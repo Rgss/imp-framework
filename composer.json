@@ -3,7 +3,7 @@
     "description": "test framework",
     "type": "library",
     "license": "MIT",
-    "require": {}
+    "require": {},
     "autoload": {
         "psr-4": {"Imp\\Framework": "src"}
     },
